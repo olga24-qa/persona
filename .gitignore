@@ -1,0 +1,6 @@
+*
+!.gitignore
+!index.html
+!images/
+!images/*
+images/*.HEIC
